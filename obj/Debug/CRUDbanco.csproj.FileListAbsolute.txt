@@ -1,0 +1,11 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\bin\Debug\CRUDbanco.exe.config
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\bin\Debug\CRUDbanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\bin\Debug\CRUDbanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.FrmAlta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDbanco\obj\Debug\CRUDbanco.pdb
